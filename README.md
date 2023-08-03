@@ -1,4 +1,4 @@
-## Scroll animation para muestra de Skills o tecnologías
+### Infinity scroll animation para muestra de Skills o tecnologías
 
 ## Requisitos previos
 
